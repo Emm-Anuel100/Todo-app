@@ -1,0 +1,15 @@
+C:\Users\Emmanuel\source\repos\Todo_application\Todo_application\bin\Debug\Todo_application.exe.config
+C:\Users\Emmanuel\source\repos\Todo_application\Todo_application\bin\Debug\Todo_application.exe
+C:\Users\Emmanuel\source\repos\Todo_application\Todo_application\bin\Debug\Todo_application.pdb
+C:\Users\Emmanuel\source\repos\Todo_application\Todo_application\obj\Debug\Todo_application.csprojAssemblyReference.cache
+C:\Users\Emmanuel\source\repos\Todo_application\Todo_application\obj\Debug\Todo_application.Form1.resources
+C:\Users\Emmanuel\source\repos\Todo_application\Todo_application\obj\Debug\Todo_application.Properties.Resources.resources
+C:\Users\Emmanuel\source\repos\Todo_application\Todo_application\obj\Debug\Todo_application.csproj.GenerateResource.cache
+C:\Users\Emmanuel\source\repos\Todo_application\Todo_application\obj\Debug\Todo_application.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\source\repos\Todo_application\Todo_application\obj\Debug\Todo_application.exe
+C:\Users\Emmanuel\source\repos\Todo_application\Todo_application\obj\Debug\Todo_application.pdb
+C:\Users\Emmanuel\source\repos\Todo_application\Todo_application\obj\Debug\Todo_application.Form2.resources
+C:\Users\Emmanuel\source\repos\Todo_application\Todo_application\bin\Debug\Todo_application.exe.manifest
+C:\Users\Emmanuel\source\repos\Todo_application\Todo_application\bin\Debug\Todo_application.application
+C:\Users\Emmanuel\source\repos\Todo_application\Todo_application\obj\Debug\Todo_application.exe.manifest
+C:\Users\Emmanuel\source\repos\Todo_application\Todo_application\obj\Debug\Todo_application.application
