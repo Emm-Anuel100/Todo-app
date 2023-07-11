@@ -34,9 +34,9 @@ namespace Todo_application
 
             // adding todos in the list of todos
 
-            //names.Add("afsn");
-            //names.Add("afsn");
-            //names.Add("afsn");
+            //names.Add("first todo");
+            //names.Add("second todo");
+            //names.Add("third todo");
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
