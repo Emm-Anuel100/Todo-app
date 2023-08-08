@@ -81,8 +81,7 @@ namespace Todo_application
 
             if (comboBox1.SelectedItem == "A - Z")
             {
-                names.Sort();
-             
+                names.Sort();   
             }
             else
             {
